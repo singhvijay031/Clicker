@@ -1,6 +1,6 @@
 import React from "react";
 import Cookies from "./assets/cookies.jpeg";
-import "./App.css";
+import "./index.css";
 
 class App extends React.Component {
   constructor(props) {
